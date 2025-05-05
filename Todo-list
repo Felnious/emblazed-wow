@@ -1,0 +1,43 @@
+1. Add Class spells to playercreateinfo_spells_custom
+----Warrior //done
+----Paladin //done
+----Hunter
+----Rogue
+----Priest
+----Shaman
+----Deathknight
+----Mage
+----Warlock
+----Druid
+
+2. Finish CharStartOutfit.dbc
+
+3. Start the Quest Lines and Starting Areas
+
+4. Rename Zones aswell as lock certain Dungeon Teleports with the Guild Amulet
+
+5. Redo Armor Sets for each Spec with different Displayids
+
+6. Add Set bonus to +5 and +10 Upgrades
+
+7. Script a Battlepass
+
+8. Script Soul Enhancement Buff
+
+9. Script Empowerment Artifact for Legendary Creation
+
+10. Script Item Shop
+
+11. Script Spells for Item Shop
+
+12. Create World Bosses in each Zone
+
+13. Write a Daily Quest System
+
+14. Write a Weekly Quest System
+
+15. Write a Monthly Quest System
+
+16. Write Event System
+
+17. Create Dungeon System
