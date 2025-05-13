@@ -44,53 +44,54 @@
 17. Create Dungeon System
 
 18. Get Creatures Labeled in the DB for where they are located
--- Elwynn Forest
--- Westfall
--- RedRidge Mountain
--- Duskwood
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
--- 
+
+-- ALLIANCE QUEST PATH
+
+-- Elwynn Forest                          -- Copper Rank
+-- Redridge Mountain                      -- Copper Rank
+-- Burning Stepp                          -- Copper Rank
+-- Searing Gorge                          -- Copper Rank
+-- Dun Morogh -- Iron Forge Raid          -- Copper Rank
+-- Loch Modan                             -- Bronze Rank
+-- Wetlands                               -- Bronze Rank
+-- Arathi Highlands                       -- Bronze Rank
+-- Hillsbrad Foothills                    -- Bronze Rank
+-- Alterac Mountains                      -- Bronze Rank
+-- The Hinterlands                        -- Iron Rank
+-- Silverpine Forest                      -- Iron Rank
+-- Trisfal Glades                         -- Iron Rank
+-- Western Plaguelands                    -- Iron Rank
+-- Eastern Plaguelands                    -- Iron Rank
+-- Ghostlands                             -- Silver Rank
+-- Eversong Forest -- Silvermoon Raid     -- Silver Rank
+-- Isle of Quel'danas                     -- Silver Rank  --> Westfall
+-- Westfall                               -- Silver Rank
+-- Duskwood --> Deadwindpass              -- Silver Rank
+-- Swamp of Sorrows                       -- Gold Rank
+-- Blasted Lands                          -- Gold Rank
+
+-- THE BURNING CRUSADE
+
+-- Hellfire Peninsula                     -- Gold Rank
+-- Zangarmarsh                            -- Gold Rank
+-- Blades Edge Mountain                   -- Gold Rank
+-- Netherstorm                            -- Platinum Rank --> Nagrand
+-- Nagrand                                -- Platinum Rank
+-- Terokkar Forest                        -- Platinum Rank
+-- Shadowmoon Valley                      -- Platinum Rank --> Howling Fjord
+
+-- THE WRATH OF THE LICH KING
+
+-- Howling Fjord                          -- Platinum Rank
+-- Grizzly Hills                          -- Mithril Rank
+-- Zuldrak                                -- Mithril Rank
+-- Stormpeaks                             -- Mithril Rank
+-- Crystalsong Forest                     -- Mithril Rank
+-- Dragonblight                           -- Mithril Rank
+-- Sholazar Basin                         -- Orichalcum Rank
+-- Borean Tundra                          -- Orichalcum Rank --> Icecrown Citadel
+-- Icecrown Citadel                       -- Orichalcum Rank
+
 19. Create Legendary stats and items for after +10 weapon and armor set upgrades
 20. Create legendary quests for said items as well as crafting materials for said legendary weapons/armor
 21. Loot table for bosses to drop pieces for legenday weapons/armor %0.5 -> %1.0 drop rate
