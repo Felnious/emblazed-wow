@@ -1,16 +1,17 @@
 1. Add Class spells to playercreateinfo_spells_custom
 ----Warrior //done
 ----Paladin //done
-----Hunter
+----Hunter //done
 ----Rogue
 ----Priest
 ----Shaman
 ----Deathknight
 ----Mage
 ----Warlock
-----Druid
+----Druid //done
 
 2. Finish CharStartOutfit.dbc
+-- Need to add Weapons for Each Class
 
 3. Start the Quest Lines and Starting Areas
 
@@ -43,4 +44,50 @@
 17. Create Dungeon System
 
 18. Get Creatures Labeled in the DB for where they are located
-
+-- Elwynn Forest
+-- Westfall
+-- RedRidge Mountain
+-- Duskwood
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
